@@ -12,6 +12,7 @@ public class example {
         System.out.println(num2);
         float flt=2.5f;
         double x=23.65d;
+        int sd=7;
 
 
     }
